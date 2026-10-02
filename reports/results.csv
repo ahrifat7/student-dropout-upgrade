@@ -1,0 +1,13 @@
+stage,model,selected,cv_macro_f1_mean,cv_macro_f1_std,cv_balanced_accuracy_mean,cv_accuracy_mean,test_macro_f1,test_accuracy
+enrollment,dummy,False,0.222,0.0002,0.3333,0.4993,0.2221,0.4994
+enrollment,logreg,False,0.5728,0.026,0.5833,0.6058,0.5533,0.5774
+enrollment,random_forest,False,0.564,0.0219,0.5619,0.6411,0.5568,0.626
+enrollment,lightgbm,True,0.5884,0.0151,0.5895,0.6403,0.5474,0.5932
+sem1,dummy,False,0.222,0.0002,0.3333,0.4993,0.2221,0.4994
+sem1,logreg,False,0.681,0.0214,0.6871,0.7236,0.659,0.6994
+sem1,random_forest,False,0.6745,0.0218,0.6665,0.7448,0.6522,0.7232
+sem1,lightgbm,True,0.7023,0.0229,0.6992,0.7559,0.6671,0.722
+sem2,dummy,False,0.222,0.0002,0.3333,0.4993,0.2221,0.4994
+sem2,logreg,False,0.7144,0.0151,0.7219,0.7559,0.6971,0.7333
+sem2,random_forest,False,0.7117,0.0237,0.7028,0.7734,0.6998,0.7593
+sem2,lightgbm,True,0.7299,0.0198,0.7293,0.7782,0.7064,0.7514
