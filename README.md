@@ -95,4 +95,8 @@ Single institution (Portugal), 4,424 students, no external validation. Fairness 
 
 Data: Realinho, V., Vieira Martins, M., Machado, J., & Baptista, L. (2021). *Predict Students' Dropout and Academic Success* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5MC89 (CC BY 4.0). Describing paper: Realinho et al. (2022), *Data* 7(11), 146, https://doi.org/10.3390/data7110146.
 
+![Machine Learning certificate](Machine%20Learning.png)
+
+[Verify here](https://coursera.org/verify/specialization/75NXP1QIHWYK)
+
 Code: MIT, see [LICENSE](LICENSE).
