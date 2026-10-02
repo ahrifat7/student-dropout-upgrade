@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/ahrifat7/student-dropout-upgrade/actions/workflows/ci.yml/badge.svg)](https://github.com/ahrifat7/student-dropout-upgrade/actions/workflows/ci.yml)
 
-**Live demo:** [https://student-support-radar.streamlit.app/](https://dropoutradar.streamlit.app/)
+**Live demo:** [Visit Here](https://dropoutradar.streamlit.app/)
 
 A decision-support app that estimates whether a university student will **drop out**, stay **enrolled**, or **graduate**, and shows **how early** each prediction can be made. Instead of one model that quietly uses late information, it trains one model per moment (at enrollment, after semester 1, after semester 2) and measures what each extra piece of information buys.
 
