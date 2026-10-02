@@ -1,6 +1,6 @@
 # Student Support Radar: early dropout-risk estimates
 
-[![CI](https://github.com/ahrifat7/Student-Dropout-Prediction-System/actions/workflows/ci.yml/badge.svg)](https://github.com/ahrifat7/Student-Dropout-Prediction-System/actions/workflows/ci.yml)
+[![CI](https://github.com/ahrifat7/student-dropout-upgrade/actions/workflows/ci.yml/badge.svg)](https://github.com/ahrifat7/student-dropout-upgrade/actions/workflows/ci.yml)
 
 **Live demo:** https://student-support-radar.streamlit.app/
 
